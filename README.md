@@ -9,9 +9,9 @@
 
 <!-- Banner + Profile Header for Ankit Ojha -->
 <p align="center">
-  <!-- Background banner (Unsplash: cloud / infra image). If you prefer to host locally, replace URL with /assets/banner.png -->
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1600&q=80&auto=format&fit=crop" alt="Infra banner" width="100%" style="max-height:260px;object-fit:cover;border-radius:8px;" />
+  <img src="https://images.unsplash.com/photo-1527430253228-e93688616381?w=1600" width="900" />
 </p>
+
 
 <!-- Name & Tagline -->
 <h1 align="center" style="margin-top:12px;">Ankit Ojha</h1>
@@ -33,16 +33,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitojha&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- Extra: streak / profile trophy (optional) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitojha&theme=matrix&title=Top%20SRE,Automation" alt="Trophies" />
-</p>
-
 ---
 
 <!-- Optional: Short links / contact -->
 <p align="center">
-  <a href="www.linkedin.com/in/ankit2211" target="_blank">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/ankit2211" target="_blank">LinkedIn</a> &nbsp;•&nbsp;
   <a href="mailto:ankit.ojha1168@gmail.com">Email</a>
 </p>
 
