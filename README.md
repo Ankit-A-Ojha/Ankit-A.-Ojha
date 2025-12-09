@@ -14,7 +14,7 @@
 
 
 <!-- Name & Tagline -->
-<h1 align="center" style="margin-top:12px;">Ankit Ojha</h1>
+<h1 align="center" style="margin-top:12px;">Ankit A. Ojha</h1>
 <p align="center">
   <strong style="font-size:1.05rem">Site Reliability Engineer</strong> &nbsp;|&nbsp; DevOps &nbsp;|&nbsp; Cloud &nbsp;|&nbsp; Automation
 </p>
@@ -22,15 +22,6 @@
 <!-- Short intro line -->
 <p align="center">
   <em>Building resilient systems, automating toil, and driving reliability at scale.</em>
-</p>
-
-<!-- GitHub stats + top languages (live badges) -->
-<p align="center">
-  <!-- Live GitHub readme stat card (replace username if needed) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitojha&show_icons=true&theme=dark&hide_border=true&bg_color=0,0f2027,203a43,2c5364&title_color=fff&icon_color=61dafb" alt="Ankit's GitHub stats" />
-  &nbsp;&nbsp;
-  <!-- Top languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitojha&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
