@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/SJxZCqM.png" width="850px"/>
+  <img src="https://i.imgur.com/SJxZCqM.png" width="850px" alt="banner"/>
 </p>
 
 ---
